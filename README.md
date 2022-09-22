@@ -45,3 +45,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 "# ex-Common-Components" 
+
+
+ex) https://react.vlpt.us/styling/03-styled-components.html
+
+ex) https://babycoder05.tistory.com/entry/styled-components%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-%EB%B3%80%EA%B2%BD%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0
